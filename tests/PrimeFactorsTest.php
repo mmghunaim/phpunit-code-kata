@@ -1,6 +1,5 @@
 <?php
 
-
 use App\PrimeFactors;
 use PHPUnit\Framework\TestCase;
 
