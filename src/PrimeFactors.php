@@ -4,7 +4,7 @@ namespace App;
 
 class PrimeFactors
 {
-    public function generare($number)
+    public function generate($number)
     {
         $factors = [];
 
