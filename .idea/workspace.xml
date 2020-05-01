@@ -4,7 +4,8 @@
     <list default="true" id="d837af17-0e6e-43d2-bb28-141ac306a4c9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.phpunit.result.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.phpunit.result.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/PrimeFactorsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/PrimeFactorsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringCalculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCalculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/StringCalculatorTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/StringCalculatorTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,36 +71,41 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit 6+" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
-  <component name="RunManager" selected="PHPUnit.RomanNumeralsTest.it_cannot_generate_a_roman_numeral_for_more_than_3999">
-    <configuration name="RomanNumeralsTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="RomanNumeralsTest" file="$PROJECT_DIR$/tests/RomanNumeralsTest.php" scope="Class" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.StringCalculatorTest">
+    <configuration name="StringCalculatorTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="StringCalculatorTest" file="$PROJECT_DIR$/tests/StringCalculatorTest.php" scope="Class" />
       <method v="2" />
     </configuration>
-    <configuration name="RomanNumeralsTest.it_cannot_generate_a_roman_numeral_for_less_than_1" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="RomanNumeralsTest" file="$PROJECT_DIR$/tests/RomanNumeralsTest.php" method="it_cannot_generate_a_roman_numeral_for_less_than_1" scope="Method" />
+    <configuration name="StringCalculatorTest.it_evaluates_an_empty_string_as_0" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="StringCalculatorTest" file="$PROJECT_DIR$/tests/StringCalculatorTest.php" method="it_evaluates_an_empty_string_as_0" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="RomanNumeralsTest.it_cannot_generate_a_roman_numeral_for_more_than_3999" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="RomanNumeralsTest" file="$PROJECT_DIR$/tests/RomanNumeralsTest.php" method="it_cannot_generate_a_roman_numeral_for_more_than_3999" scope="Method" />
+    <configuration name="StringCalculatorTest.it_finds_the_sum_of_any_amount_of_numbers" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="StringCalculatorTest" file="$PROJECT_DIR$/tests/StringCalculatorTest.php" method="it_finds_the_sum_of_any_amount_of_numbers" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="RomanNumeralsTest.its_generate_the_roman_numeral_for_1" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="RomanNumeralsTest" file="$PROJECT_DIR$/tests/RomanNumeralsTest.php" method="its_generate_the_roman_numeral_for_1" scope="Method" />
+    <configuration name="StringCalculatorTest.it_finds_the_sum_of_two_numbers" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="StringCalculatorTest" file="$PROJECT_DIR$/tests/StringCalculatorTest.php" method="it_finds_the_sum_of_two_numbers" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="RomanNumeralsTest.its_generate_the_roman_numeral_for_2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="RomanNumeralsTest" file="$PROJECT_DIR$/tests/RomanNumeralsTest.php" method="its_generate_the_roman_numeral_for_2" scope="Method" />
+    <configuration name="StringCalculatorTest.negative_numbers_are_not_allowed" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="StringCalculatorTest" file="$PROJECT_DIR$/tests/StringCalculatorTest.php" method="negative_numbers_are_not_allowed" scope="Method" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHPUnit.RomanNumeralsTest.it_cannot_generate_a_roman_numeral_for_more_than_3999" />
-        <item itemvalue="PHPUnit.RomanNumeralsTest.it_cannot_generate_a_roman_numeral_for_less_than_1" />
-        <item itemvalue="PHPUnit.RomanNumeralsTest" />
-        <item itemvalue="PHPUnit.RomanNumeralsTest.its_generate_the_roman_numeral_for_1" />
-        <item itemvalue="PHPUnit.RomanNumeralsTest.its_generate_the_roman_numeral_for_2" />
+        <item itemvalue="PHPUnit.StringCalculatorTest" />
+        <item itemvalue="PHPUnit.StringCalculatorTest.it_evaluates_an_empty_string_as_0" />
+        <item itemvalue="PHPUnit.StringCalculatorTest.negative_numbers_are_not_allowed" />
+        <item itemvalue="PHPUnit.StringCalculatorTest.it_finds_the_sum_of_any_amount_of_numbers" />
+        <item itemvalue="PHPUnit.StringCalculatorTest.it_finds_the_sum_of_two_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +121,8 @@
       <updated>1588206854769</updated>
       <workItem from="1588206856983" duration="3138000" />
       <workItem from="1588240281240" duration="915000" />
-      <workItem from="1588245839878" duration="1219000" />
+      <workItem from="1588245839878" duration="2323000" />
+      <workItem from="1588334274978" duration="3199000" />
     </task>
     <servers />
   </component>
@@ -143,41 +150,41 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="441" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1588208848836" />
-    <state width="1440" height="277" key="GridCell.Tab.0.bottom" timestamp="1588247240543">
+    <state width="1440" height="277" key="GridCell.Tab.0.bottom" timestamp="1588337491655">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1440" height="277" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588247240543" />
-    <state width="1440" height="277" key="GridCell.Tab.0.center" timestamp="1588247240542">
+    <state width="1440" height="277" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588337491655" />
+    <state width="1440" height="277" key="GridCell.Tab.0.center" timestamp="1588337491654">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1440" height="277" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588247240542" />
-    <state width="1440" height="277" key="GridCell.Tab.0.left" timestamp="1588247240542">
+    <state width="1440" height="277" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588337491654" />
+    <state width="1440" height="277" key="GridCell.Tab.0.left" timestamp="1588337491654">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1440" height="277" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588247240542" />
-    <state width="1440" height="277" key="GridCell.Tab.0.right" timestamp="1588247240543">
+    <state width="1440" height="277" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588337491654" />
+    <state width="1440" height="277" key="GridCell.Tab.0.right" timestamp="1588337491655">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1440" height="277" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588247240543" />
-    <state x="528" y="285" key="NewPhpClassDialog" timestamp="1588239381589">
+    <state width="1440" height="277" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588337491655" />
+    <state x="528" y="285" key="NewPhpClassDialog" timestamp="1588335547809">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="528" y="285" key="NewPhpClassDialog/0.23.1440.877@0.23.1440.877" timestamp="1588239381589" />
-    <state x="229" y="100" key="SettingsEditor" timestamp="1588245858505">
+    <state x="528" y="285" key="NewPhpClassDialog/0.23.1440.877@0.23.1440.877" timestamp="1588335547809" />
+    <state x="229" y="100" key="SettingsEditor" timestamp="1588335524459">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1588245858505" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1588247238905">
+    <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1588335524459" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1588337488856">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1588247238905" />
-    <state x="468" y="126" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1588239291859">
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1588337488856" />
+    <state x="468" y="126" width="627" height="671" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1588335583909">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="468" y="126" key="com.jetbrains.php.test.PhpNewTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1588239291859" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1588208408372">
+    <state x="468" y="126" width="627" height="671" key="com.jetbrains.php.test.PhpNewTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1588335583909" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1588334398148">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1588208408372" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1588334398148" />
   </component>
 </project>
